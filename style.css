@@ -1,0 +1,73 @@
+body{
+    background-color: azure;
+}
+
+p{
+    text-align:center;
+    font-size: xx-large;
+}
+
+.title:hover{
+    color: rgb(69, 156, 127);
+
+}
+
+.title{
+    margin-bottom: 60px;
+    font-variant:small-caps;
+    margin-top: 100;
+}
+
+.header{
+
+    background-color:aliceblue;
+}
+
+* {
+    padding: 0;
+    color:black;
+    font-family: 'Russo One', sans-serif;
+    margin: 0;
+    box-sizing:border-box;
+}
+
+.PC{
+    text-align: left;
+    font-size: 10px;
+    
+}
+
+.container{
+    margin-top: 60px;
+    display: flex;
+    gap: 35px;
+
+}
+
+.img{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.fenetres{
+    font-size: large;
+}
+
+
+
+html, body{
+    scroll-behavior: smooth;
+}
+
+
+.présentationtxt{
+    font-size: large;
+    font-variant: small-caps;
+}
+
+.descriptiontxt{
+    width: auto;
+    font-variant: small-caps;
+}
